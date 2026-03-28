@@ -55,7 +55,7 @@
         <mxCell id="I90COYgsKkcfcEG2pRB_-16" edge="1" parent="1" source="I90COYgsKkcfcEG2pRB_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.986;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" target="I90COYgsKkcfcEG2pRB_-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I90COYgsKkcfcEG2pRB_-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Id_Produto&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Nome_produto&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Tipo_produto&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="I90COYgsKkcfcEG2pRB_-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Id_Pedido&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Id_Produto&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Quantidade&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="170" x="554" y="370" as="geometry" />
         </mxCell>
         <mxCell id="I90COYgsKkcfcEG2pRB_-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Item_pedido&lt;/span&gt;" vertex="1">
