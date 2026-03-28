@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="Página-1" id="oRH5FdKDXYhjp_1pikPm">
-    <mxGraphModel dx="695" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a2rhbikMPytc2ns4Mzg4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cpf&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Nome&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Sobrenome&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Rua&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Cidade&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;CEP&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Telefone&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="170" x="140" y="113" as="geometry" />
+          <mxGeometry height="150" width="170" x="140" y="112" as="geometry" />
         </mxCell>
         <mxCell id="a2rhbikMPytc2ns4Mzg4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Cliente&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="270" x="40" y="73" as="geometry" />
+          <mxGeometry height="40" width="270" x="40" y="72" as="geometry" />
         </mxCell>
         <mxCell id="a2rhbikMPytc2ns4Mzg4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;PK&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Chave&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Chave&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Chave&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Chave&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Chave&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Chave&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="100" x="40" y="113" as="geometry" />
+          <mxGeometry height="150" width="100" x="40" y="112" as="geometry" />
         </mxCell>
         <mxCell id="I90COYgsKkcfcEG2pRB_-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Id_Pedido&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Id_Cliente&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="65" width="170" x="548" y="153" as="geometry" />
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I90COYgsKkcfcEG2pRB_-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;(1,1)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="310" y="153" as="geometry" />
+          <mxGeometry height="30" width="60" x="310" y="152" as="geometry" />
         </mxCell>
         <mxCell id="I90COYgsKkcfcEG2pRB_-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;(1,N)&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="388" y="153" as="geometry" />
